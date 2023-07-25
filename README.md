@@ -7,6 +7,7 @@ Blood pressure (BP) monitoring is essential for detecting complications during s
 ## Project goal 
 Investigate methods for continuous non-invasively detecting BP using a single PPG sensor to be used during surgery under anesthesia.
 
+## Data
 The project based on PPG signal and BP from 67 sedated cervical spine surgery patients at Belinson Hospital. PPG sensor measures at 100 Hz, detecting blood volume changes. BP collected invasively one measurement per minute on average (~1/60 Hz), and non-invasive at irregular rate.
 
 ## Methodology
